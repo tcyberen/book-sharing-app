@@ -5,5 +5,7 @@
 Sunucu olarak AppServ kullanıldı.
 
 Veritabanı Adı : kitapkayit
+
 Tablo Adı : bilgiler
+
 Sütun Adları : isimler, soyisimler, telefonlar, kitapAdi
